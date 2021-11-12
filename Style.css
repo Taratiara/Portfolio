@@ -52,7 +52,7 @@ div.navbar a{
 }
 
 div.navbar a:hover{
-    color: #50666B;
+    text-shadow: 5px 5px 5px #2E3B3E;
     transition: .5s;
 }
 
